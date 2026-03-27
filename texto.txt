@@ -1,2 +1,7 @@
 oi, eu estou com sono
 oi, eu estou com sono pra krl 
+let a = 6
+
+if (a <5) {
+joga e joga ahh ahh, ttropa do prio
+}
